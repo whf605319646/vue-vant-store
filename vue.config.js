@@ -3,7 +3,8 @@ module.exports = {
   devServer: {
     proxy: {
       '/api': {
-        target: 'http://127.0.0.1:3000',
+        target: 'https://yapi.baidu.com/mock/18999',
+        // target: 'http://127.0.0.1:3000',
         ws: true,
         changeOrigin: true,
         pathRewrite: {
