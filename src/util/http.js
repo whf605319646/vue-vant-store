@@ -2,12 +2,14 @@
 import axios from 'axios';
 import { Toast } from 'vant';
 import router from '@/router';
+import { commonSetting } from '@/setting';
 
 // 环境的切换
 if (process.env.NODE_ENV == 'development') {
   axios.defaults.baseURL = '/api';
 } else {
-  axios.defaults.baseURL = '/api';
+  axios.defaults.baseURL = commonSetting.baseUrl;
+  // axios.defaults.baseURL = '/api';
 }
 
 // 超时时间
