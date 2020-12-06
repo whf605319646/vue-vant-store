@@ -11,12 +11,12 @@
 6. 订单
 
 # 项目预览
-查看Demo [点这里](http://182.254.192.62/vue-vant-store)
+查看Demo [点这里](http://eshop.hfwang.win)
 
 
 在手机上效果更好，扫一扫体验
 
-![二维码](https://github.com/pwx123/vue-vant-store/raw/master/screenshots/qrcode.png)
+![二维码](./screenshots/qrcode.png)
 
 # 前端
 
@@ -98,20 +98,20 @@ npm start
 
 
 ### 首页
-![首页](https://github.com/pwx123/vue-vant-store/raw/master/screenshots/index.png)
+![首页](./screenshots/index.png)
 ### 商品详情
-![商品详情](https://github.com/pwx123/vue-vant-store/raw/master/screenshots/good.png)
+![商品详情](./screenshots/good.png)
 ### 购物车
-![购物车](https://github.com/pwx123/vue-vant-store/raw/master/screenshots/cart.png)
+![购物车](./screenshots/cart.png)
 
 ### 订单
-![订单](https://github.com/pwx123/vue-vant-store/raw/master/screenshots/order.png)
-![订单列表](https://github.com/pwx123/vue-vant-store/raw/master/screenshots/orderlist.png)
+![订单](./screenshots/order.png)
+![订单列表](./screenshots/orderlist.png)
 ### 地址
-![地址](https://github.com/pwx123/vue-vant-store/raw/master/screenshots/address.png)
+![地址](./screenshots/address.png)
 ### 登录/注册
-![登录](https://github.com/pwx123/vue-vant-store/raw/master/screenshots/login.png)
-![注册](https://github.com/pwx123/vue-vant-store/raw/master/screenshots/reg.png)
+![登录](./screenshots/login.png)
+![注册](./screenshots/reg.png)
 ### 用户
-![用户](https://github.com/pwx123/vue-vant-store/raw/master/screenshots/user.png)
+![用户](./screenshots/user.png)
 
