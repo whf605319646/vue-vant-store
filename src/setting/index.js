@@ -4,7 +4,7 @@ console.dir(global);
 const assetsUrl = `${location.protocol}//${location.host}`.replace(/\/$/, "");
 
 // let socketHost = "http://192.168.101.40:30072";
-let baseUrl = debug?"http://192.168.101.40:8034":"https://yapi.baidu.com/mock/18999";
+let baseUrl = debug?"http://192.168.101.40:8034":"http://www.egova.top:2930/mock/863";
 
 /**
  * 后端地址
